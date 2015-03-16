@@ -19,3 +19,11 @@ MBProgressHUD 的一个分类，调用更加方便。
     
     // 隐藏所有 HUD
     [MBProgressHUD hideHUD];
+    
+## 截图
+
+![](https://github.com/pupboss/MBProgressHUD-LJ/blob/master/MBProgressHUD+LJ/01.png?raw=true)
+
+![](https://github.com/pupboss/MBProgressHUD-LJ/blob/master/MBProgressHUD+LJ/02.png?raw=true)
+
+![](https://github.com/pupboss/MBProgressHUD-LJ/blob/master/MBProgressHUD+LJ/03.png?raw=true)
