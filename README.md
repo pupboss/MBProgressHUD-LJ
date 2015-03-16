@@ -6,7 +6,9 @@ MBProgressHUD 的一个分类，调用更加方便。
 
 ## 用法
 
-    #import "MBProgressHUD-LJ.h"
+    //将 MBProgressHUD+LJ 文件夹拉到项目中。
+    
+    #import "MBProgressHUD+LJ.h"
     
     // 显示一个带遮罩的 HUD
     [MBProgressHUD showMessage:@"请骚等一会儿"];
