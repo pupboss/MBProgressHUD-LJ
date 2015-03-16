@@ -81,13 +81,9 @@
 		D59282931AB70919008577DF /* MBProgressHUD+LJ */ = {
 			isa = PBXGroup;
 			children = (
-				D59282981AB70919008577DF /* AppDelegate.h */,
-				D59282991AB70919008577DF /* AppDelegate.m */,
+				D592829E1AB70919008577DF /* Main.storyboard */,
 				D592829B1AB70919008577DF /* ViewController.h */,
 				D592829C1AB70919008577DF /* ViewController.m */,
-				D592829E1AB70919008577DF /* Main.storyboard */,
-				D59282A11AB70919008577DF /* Images.xcassets */,
-				D59282A31AB70919008577DF /* LaunchScreen.xib */,
 				D59282941AB70919008577DF /* Supporting Files */,
 			);
 			path = "MBProgressHUD+LJ";
@@ -96,6 +92,10 @@
 		D59282941AB70919008577DF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D59282981AB70919008577DF /* AppDelegate.h */,
+				D59282991AB70919008577DF /* AppDelegate.m */,
+				D59282A11AB70919008577DF /* Images.xcassets */,
+				D59282A31AB70919008577DF /* LaunchScreen.xib */,
 				D59282951AB70919008577DF /* Info.plist */,
 				D59282961AB70919008577DF /* main.m */,
 			);
